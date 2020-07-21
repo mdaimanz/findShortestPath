@@ -24,7 +24,7 @@
  
  Visual representation of the matrix is shown below:
  
-  .. image::  https://drive.google.com/uc?id=1LV6hkgg94_gO-xeveMToyQeKYBKIG0kJ&export=download
+  .. image::  https://github.com/mdaimanz/findShortestPath/blob/test/image/Matrix.png
  
  Note: Dist(0)(1) means distance between Kuala Lumpur and Bangkok
  
