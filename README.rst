@@ -8,9 +8,9 @@
  Solution:
  
  1) Mark all designated location and create a polyline consisting of all possible paths. A HTML file 'my_map.html' will be generated. geopy and gmplot packages are required to run marklocation.py.
-
-.. image::  https://drive.google.com/uc?id=17YJGhRgV5tE9tWozm7sxFW8YOSju3lSb&export=download
-
+ 
+ .. image::  https://drive.google.com/uc?id=17YJGhRgV5tE9tWozm7sxFW8YOSju3lSb&export=download
+ 
  2) Generate matrix to store distances between places. The distances are obtained using geopy distance.distance method. Distances return in kilometres unit. As for this      process, each place was referred as code number as shown below:-
      
     Kuala Lumpur - 0
@@ -22,9 +22,9 @@
     Hong Kong - 6
     Beijing - 7
  
- Visual representation of the matrix is shown below:-
+ Visual representation of the matrix is shown below:
  
- .. image::  https://drive.google.com/uc?id=1LV6hkgg94_gO-xeveMToyQeKYBKIG0kJ&export=download
+  .. image::  https://drive.google.com/uc?id=1LV6hkgg94_gO-xeveMToyQeKYBKIG0kJ&export=download
  
  Note: Dist(0)(1) means distance between Kuala Lumpur and Bangkok
  
@@ -39,6 +39,3 @@
  6) Initiate flask and polyline for the shortest path will be shown on the map.
  
  .. image::  https://drive.google.com/uc?id=1rIWwdOlpdcNzTI3E7qQ_u39eO-9l_cx0&export=download
- 
- 
-
