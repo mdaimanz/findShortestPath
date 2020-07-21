@@ -16,7 +16,7 @@ def permutation(lst):
         return []
 
         # If there is only one element in lst then, only
-    # one permuatation is possible
+    # one permutation is possible
     if len(lst) == 1:
         return [lst]
 
@@ -87,8 +87,6 @@ gmaps.plot(list_lat,list_lon, 'cornflowerblue', edge_width=5)
 gmaps.draw("my_map.html")
 print("Map generated successfully!")
 
-for x in range(1,len(place)):
-    print(x)
 
 
 
