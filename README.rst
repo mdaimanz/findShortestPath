@@ -9,7 +9,7 @@
  
  1) Mark all designated location and create a polyline consisting of all possible paths. A HTML file 'my_map.html' will be generated. geopy and gmplot packages are required to run marklocation.py.
  
- .. image::  https://drive.google.com/uc?id=17YJGhRgV5tE9tWozm7sxFW8YOSju3lSb&export=download
+ .. image::  https://github.com/mdaimanz/findShortestPath/blob/test/image/my_map.png
  
  2) Generate matrix to store distances between places. The distances are obtained using geopy distance.distance method. Distances return in kilometres unit. As for this      process, each place was referred as code number as shown below:-
      
